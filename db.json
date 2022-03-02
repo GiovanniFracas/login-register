@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "email": "n@p.com",
+      "password": "$2a$10$FmpmVT2Xt0AZYGDNqIbgNeGo6OZNc3gsbr9BJ31u/2jY403c/Dl2O",
+      "name": "nico",
+      "id": 1
+    },
+    {
+      "email": "dadegi@gmail.com",
+      "password": "$2a$10$TXbylSHODILeuFJNI3d0h.aPdbhH9SsvjDJvzpXXztCAu.jPnBNQ2",
+      "name": "Dario Del Giudice",
+      "id": 2
+    },
+    {
+      "email": "giuseppe@verdi.com",
+      "password": "$2a$10$SCrGr.FxQ5jGQm93bZgqpu.DCQg5QmiMDqF0YIia2Pr7EJA5wdljW",
+      "name": "Giuseppe Verdi",
+      "id": 3
+    },
+    {
+      "email": "dario@runfola.com",
+      "password": "$2a$10$oE.8hsoCtDrpBEDOVMDgx.yNwWuXMfumVXSN81Ykuztzm9/0.khO2",
+      "name": "Dario Runfola",
+      "id": 4
+    },
+    {
+      "email": "vincenzo@bianchi.it",
+      "password": "$2a$10$KuFwFyHzopGashf3trLgpu1gMTNueeMB79xG0wpap0BnZoda3EfoW",
+      "name": "Vincenzo Bianchi",
+      "id": 5
+    },
+    {
+      "email": "giovanni.fracas@hotmail.com",
+      "password": "$2a$10$KxHiE1s6IuKN5sOZcUl.UODCu2dHLhS1zBn6SbYZV5Uq4DwKDN30y",
+      "nome": "asd",
+      "id": 6
+    },
+    {
+      "email": "thomas@gmail.com",
+      "password": "$2a$10$8U7djEoAF4u..tQSccf4Nu60RC4OHsH0srGRSIF81rtkhNdUwtrAa",
+      "nome": "Thomas",
+      "id": 7
+    },
+    {
+      "email": "gisdfjhsf@gmail.com",
+      "password": "$2a$10$gqleAdjUVr9cnusjsFLYk.LIq8/S9g9rGol.NIG1C01.oKJC4p1WG",
+      "nome": "jsdoifhfmos",
+      "id": 8
+    },
+    {
+      "email": "Runfola@gmail.com",
+      "password": "$2a$10$tew6r4wvDVNQ6.nfCRvFmeHcybf9B4i9A5Prna1eoqLLLIWHh3Gii",
+      "nome": "Dario",
+      "id": 9
+    },
+    {
+      "email": "anna@gmail.com",
+      "password": "$2a$10$bDt2ngXuhw/pq4GMMVlvVe33WQEUM1HlkvViXvEaEhilv6zOiwq0W",
+      "nome": "Anna",
+      "id": 10
+    },
+    {
+      "email": "post@gmail.com",
+      "password": "$2a$10$GVr8k7qpFycUBv5aEAvcju5loLB.87rZ3bbs6xiv43Kh8mdsTh/WK",
+      "nome": "post",
+      "id": 11
+    },
+    {
+      "email": "safsdf@gmail.com",
+      "password": "$2a$10$I.qJ7blr9snnNYwC1KzuyeJBhFsk5kEHCK4Dij0bWPLVXMoGzyB7K",
+      "nome": "Giovanniasd",
+      "id": 12
+    },
+    {
+      "email": "asfafasf@hfdhf.com",
+      "password": "$2a$10$s6ZKSgYcbM6KhDC5sumhBe/OPkhzfTZiGEtSnhUbO/gxC4mAdlzFi",
+      "nome": "afasfasasf",
+      "id": 13
+    },
+    {
+      "email": "fafsd@gmail.com",
+      "password": "$2a$10$.8Yh9v.vGWtyWBLX2Rr2qOqEswIe6DtocKzXfTqwwG/V6QzIq9MIe",
+      "nome": "asdsafsa",
+      "id": 14
+    },
+    {
+      "email": "sadas@gasfds.com",
+      "password": "$2a$10$TA774z0kpriW9e9aippbVekqFBUfPv8MoCU7t4QqueTkP.B5cMGwW",
+      "nome": "asdsadasd",
+      "id": 15
+    },
+    {
+      "email": "saf@fsafs.com",
+      "password": "$2a$10$o1LWqtHO4ff4L.IyFM5bcOrPeMJo8jJri4tesz95rWUFt3PqRIB8m",
+      "nome": "dsadasd",
+      "id": 16
+    },
+    {
+      "email": "sadas@gdsgdsg",
+      "password": "$2a$10$IIYQtlNN2dvMnQ1/9IS.bOLlPCu5xbHB.4/ex3wKoTfqishDx4k7K",
+      "nome": "asdasd",
+      "id": 17
+    },
+    {
+      "email": "asdasdas@gdg.com",
+      "password": "$2a$10$75xpRCqX97E.nnYPqTJ3eeAyMpepZQx84eJ0/RG5Q2EcQUOFcYr4O",
+      "nome": "asdasd",
+      "id": 18
+    },
+    {
+      "email": "asdasdasd@gsdf.cpom",
+      "password": "$2a$10$Vxns6.fuBcJUARKYHXOp7uPJ9OxILXLf9m/9WX69OUPkETOjhpfAW",
+      "nome": "asd",
+      "id": 19
+    },
+    {
+      "email": "fddfsf@cdssc.com",
+      "password": "$2a$10$g3kCfNZnPevipZYSkT62jOPiqlrhd2Po7hslAf8cES6zX6ORcCvdW",
+      "nome": "asdasd",
+      "id": 20
+    },
+    {
+      "email": "fsfassaf@hfdmom.com",
+      "password": "$2a$10$qNEOLHEHqh0jy3FIKFlaf.R2cspn3npt5CgWdRMJvCGSQSZTPmzu.",
+      "nome": "sfasdasd",
+      "id": 21
+    },
+    {
+      "email": "sdasdas@ggfds.com",
+      "password": "$2a$10$VJgbBOhnV7uIoNdmYgBtcuBtnWj012Vmhl6WjQieYDeDj.HXADjNK",
+      "nome": "asdasd",
+      "id": 22
+    },
+    {
+      "email": "asdasdas@horm.com",
+      "password": "$2a$10$ljzPTmhWPJnUEFCSaZJ/EOskYOAIqUDs6vzwn2ZbrGkh4/LSJAQ8m",
+      "nome": "asdas",
+      "id": 23
+    },
+    {
+      "email": "asdasdsa@homasd.com",
+      "password": "$2a$10$wnDlMWD.TQGdYmWhP.laTeWc4lM0ibGD0Vjp8E1n/MkfWyE8.NrLi",
+      "nome": "asdasasd",
+      "id": 24
+    },
+    {
+      "email": "asdsad@oknmoms.com",
+      "password": "$2a$10$pxxep0eZ/Hhzi9Aia3pKX.cmhP8LtKf2WotGMalWop.8M7PCBT/em",
+      "nome": "sdasda",
+      "id": 25
+    },
+    {
+      "email": "fdasfsafd@hot.com",
+      "password": "$2a$10$.eD7gJcBJvgTC16crqXCEurn7tWHtg.PewzDgGp2077ObYkKZx0pa",
+      "nome": "dasdasdas",
+      "id": 26
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "titolo",
+      "active": false,
+      "type": "news",
+      "author": "marcoss"
+    },
+    {
+      "id": 2,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active": true,
+      "type": "education",
+      "author": "Lusa"
+    },
+    {
+      "id": 3,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active": true,
+      "type": "politic",
+      "author": "Carlo"
+    },
+    {
+      "id": 4,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et velit quis anim officia fugiat esse laborum nisi fugiat non.",
+      "title": "Dolor velit sint tempor culpa cupidatat ipsum do ad tempor eiusmod.",
+      "active": true,
+      "type": "news",
+      "author": "Mario"
+    }
+  ]
+}
